@@ -18,6 +18,7 @@
 
 O projeto **"VenciNaPromo"** está em desenvolvimento pela equipe **"GPT"** durante a disciplina **"REQUISITOS DE SOFTWARE"** no semestre 2023/1. O propósito do projeto consiste em dar uma solução de software para a dificuldade na compra e venda de alimentos próximos ao vencimento, criando um hub de venda e compra desses alimentos por um preço mais acessivel.
 
+The project **"VenciNaPromo"** is being developed by the **"GPT"** team during the discipline **"SOFTWARE REQUIREMENTS"** in the semester 2023/1. The purpose of the project is to provide a software solution to the difficulty in buying and selling foods close to expiration, creating a hub for selling and purchasing these foods at a more affordable price.
 
 
 ## 📚 Documentação <a name="documentation"></a>
